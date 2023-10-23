@@ -14,10 +14,10 @@ function Header() {
       <div id="header__bar" style = {{transform: showHeaderBar? `translateY(120px)`: `translateY(0px)`}}>
         <h3 className="header__bar__title">Frontend Developer</h3>
         <div className="header__bar__icons">
-          <a href="https://www.facebook.com/abhijit.surve.1441?mibextid=ZbWKwL" target='_blank'><img src="https://img.icons8.com/ios/50/000000/facebook--v1.png"/></a>
-          <a href="https://instagram.com/abhi_surve2412?igshid=YTQwZjQ0NmI0OA==" target='_blank'><img src="https://img.icons8.com/ios/50/000000/instagram-new--v1.png"/></a>
-          <a href="https://github.com/AbhiSurve2412" target='_blank'><img src="https://img.icons8.com/ios/50/000000/github--v1.png"/></a>
-          <a href="https://www.linkedin.com/in/abhijitsurve/" target='_blank'><img src="https://img.icons8.com/ios/50/000000/linkedin.png"/></a>
+          <a href="https://www.facebook.com/dnyaneshwar.dimblesarpatil" target='_blank'><img src="https://img.icons8.com/ios/50/000000/facebook--v1.png"/></a>
+          <a href="https://www.instagram.com/dnyane_900150/" target='_blank'><img src="https://img.icons8.com/ios/50/000000/instagram-new--v1.png"/></a>
+          <a href="https://github.com/Dnyaneshwar150" target='_blank'><img src="https://img.icons8.com/ios/50/000000/github--v1.png"/></a>
+          <a href="https://www.linkedin.com/in/dnyaneshwar-dimble-78454023a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target='_blank'><img src="https://img.icons8.com/ios/50/000000/linkedin.png"/></a>
         </div>
       </div>
 
